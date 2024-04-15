@@ -1,5 +1,5 @@
 .FirstDiv{
-    background-color: blue;
+    background-color: #64A8FF;
     height: 100px;
    
 }
@@ -16,22 +16,22 @@
     flex-direction: row;
 }
 .orange{
-    background-color: orange;
+    background-color: #E87A44;
     height: 50px;
     width: 310px;
 }
 .brown{
-    background-color: brown;
+    background-color: #784100;
     height: 50px;
     width: 310px;
 }
 .pink{
-    background-color:pink;
+    background-color: #FF7498;
     height: 50px;
     width: 310px;
 }
 .purple{
-    background-color: purple;
+    background-color: #5B5AB2;
     height: 50px;
     width: 310px;
 }
@@ -41,7 +41,7 @@
     flex-direction: row;
 }
 .black{
-    background-color: black;
+    background-color: #121212;
     height: 400px;
     width: 950px;
     display: flex;
@@ -50,24 +50,24 @@
 
 }
 .golden{
-    background-color: goldenrod;
+    background-color: #806800;
     height: 100px;
     width: 100px;
     border: 2px solid white;
 }
 .lavender{
-    background-color: lavender;
+    background-color: #CD94E2;
     height: 400px;
     width: 150px;
 
 }
 .gray{
-    background-color: gray;
+    background-color: #41474A;
     width: 150px;
     height: 400px;
 }
 .green{
-    background-color: green;
+    background-color: #008541;
     height:50px ;
     width: 1080px;
 
@@ -77,7 +77,7 @@
     flex-direction: row;
 }
 .gray1{
-    background-color: gray;
+    background-color: #41474A;
     height:50px ;
     width: 150px;
 }
