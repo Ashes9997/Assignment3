@@ -9,8 +9,9 @@
 }
 .Parent{
     
-    border: white 2px solid;
+    /* border: white 2px solid; */
     border: 10px solid black;
+    /* border-style: double; */
     
 }
 .SeconDiv{
@@ -50,6 +51,8 @@
 .ThirDiv{
     display: flex;
     flex-direction: row;
+    position: relative;
+
 }
 .black{
     background-color: #121212;
@@ -75,20 +78,19 @@
 .gray{
     background-color: #41474A;
     width: 12.5%;
-    height: 400px ;
+    height: 500px ;
+    position: absolute;
+    right: 0; 
+    /* bottom: 0; */
+    
 }
 .green{
     background-color: #008541;
     height:100px ;
-    width: 1074px;
+    width: 100%;
 
 }
 .LastDiv{
     display: flex;
     flex-direction: row;
-}
- .gray1{ 
-    background-color: #41474A;
-    height:100px ;
-    width: 150px;
 }
